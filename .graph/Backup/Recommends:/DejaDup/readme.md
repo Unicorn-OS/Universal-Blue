@@ -1,0 +1,2 @@
+- https://wiki.gnome.org/Apps/DejaDup
+- https://flathub.org/apps/org.gnome.DejaDup
